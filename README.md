@@ -1,2 +1,2 @@
 # inkscape
-Collection of Inkscape projects.
+Collection of Inkscape doodles.
